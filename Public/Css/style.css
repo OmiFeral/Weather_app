@@ -1,0 +1,41 @@
+body {
+    color: #333333;
+    font-family : Arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 100px;
+}
+
+footer{
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header a{
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+.portrait{
+    width: 250px;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+
+  button{
+      font-size: 15px;
+      background-color: peachpuff;
+      border-radius: 30px;
+  }
