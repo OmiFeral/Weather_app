@@ -1,4 +1,3 @@
-
 const WeatherForm = document.querySelector('form');
 const Message = document.querySelector('#Message-1');
 const Error  = document.querySelector('#Error');
